@@ -2,6 +2,8 @@
 
 This project provides many git alias commands that you can use as you like.
 
+> Don't Forget to add `alias g='git'` to your `.bash_profile` when you wan't to use `g` as alias 
+
 Contents:
 
 * [Introduction](#introduction)
