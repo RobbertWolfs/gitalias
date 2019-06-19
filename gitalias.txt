@@ -79,6 +79,7 @@
   m = merge
   o = checkout
   p = pull
+  pu = push origin HEAD
   r = remote
   s = status
   w = whatchanged
